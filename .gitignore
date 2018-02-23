@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+#Some MATLAB fail safe stuff
+*.asv
